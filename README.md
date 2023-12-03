@@ -1,1 +1,6 @@
-# POO-Interface-Gr-fica
+![image](https://github.com/55Hian/POO-Interface-Grafica/assets/132616428/d028fefb-8ca7-4165-8dd6-687a2e026608)
+![image](https://github.com/55Hian/POO-Interface-Grafica/assets/132616428/3c1af4cb-459b-4fcd-9638-2b931b0c76a3)
+![image](https://github.com/55Hian/POO-Interface-Grafica/assets/132616428/7ae4564a-8196-411d-9a3d-d15e54ede804)
+![image](https://github.com/55Hian/POO-Interface-Grafica/assets/132616428/d1e0cf15-51cb-4599-a151-89062f1fabc0)
+![image](https://github.com/55Hian/POO-Interface-Grafica/assets/132616428/b2bb2fd4-04c1-4a59-a076-a636dfac82f7)
+![image](https://github.com/55Hian/POO-Interface-Grafica/assets/132616428/9671a551-65d6-4fb2-a21f-ebb5d7bc2f80)
