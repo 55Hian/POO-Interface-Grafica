@@ -1,0 +1,14 @@
+public class ContaPF extends Employee ContaBancaria {
+
+    private final String CPF;
+    private double saldo;
+   
+    public HourlyEmployee (String cliente, String agencia,
+            String conta,String tipoConta, String CPF, double saldo){
+    super(cliente,agencia,conta,tipoConta);
+    
+    public Double getCPF() {return CPF;}
+    public Double getsaldo() {return saldo;}
+
+
+}
