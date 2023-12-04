@@ -2,13 +2,20 @@ public class ContaPF extends Employee ContaBancaria {
 
     private final String CPF;
     private double saldo;
+    private String senha;
    
     public HourlyEmployee (String cliente, String agencia,
-            String conta,String tipoConta, String CPF, double saldo){
+            String conta,String tipoConta, String CPF, double saldo, String senha){
     super(cliente,agencia,conta,tipoConta);
     
     public Double getCPF() {return CPF;}
     public Double getsaldo() {return saldo;}
+    public Double getsenha() {return senha;}
+
+    /*public void setSenha(String senha) {
+		
+		this.senha = senha;
+	}*/
 
 
 }
